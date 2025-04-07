@@ -1,8 +1,16 @@
+# Core backend & frontend
 fastapi
 uvicorn
 streamlit
 pandas
 scikit-learn
 sentence-transformers
-requests
 huggingface_hub
+requests
+beautifulsoup4
+selenium
+faiss-cpu
+langchain
+langchain-community
+google-generativeai
+python-dotenv
