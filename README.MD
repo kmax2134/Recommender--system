@@ -1,4 +1,4 @@
-🔍 SHL Assessment Recommendation System
+#🔍 Recommender System
 A recommendation system that suggests SHL assessments based on job descriptions using sentence embeddings, LLMs (Gemini), and cosine similarity. Built with a FastAPI backend and Streamlit frontend.
 
 📦 Features
