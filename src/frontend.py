@@ -1,4 +1,3 @@
-# src/frontend.py
 import os
 os.environ["STREAMLIT_WATCH_USE_POLLING"] = "true"
 
@@ -50,19 +49,58 @@ if submitted:
         st.error("Error getting recommendations. Please try again.")
         st.session_state.recommendations = []
 
-# Show recommendations if available
+# ---------------------------
+# 📄 Show Recommendations
+# ---------------------------
 if st.session_state.recommendations is not None:
     recommendations = st.session_state.recommendations
     if not recommendations:
         st.warning("No matching assessments found.")
     else:
         df = pd.DataFrame(recommendations)
+
+        # Mapping full names to symbols
+        test_type_mapping = {
+            'Ability & Aptitude': 'A',
+            'Biodata & Situational Judgement': 'B',
+            'Competencies': 'C',
+            'Development & 360': 'D',
+            'Assessment Exercises': 'E',
+            'Knowledge & Skills': 'K',
+            'Personality & Behavior': 'P',
+            'Simulations': 'S'
+        }
+
+        # Convert test type to symbols
+        def map_test_types(test_types):
+            if isinstance(test_types, list):
+                return ", ".join([test_type_mapping.get(t, t) for t in test_types])
+            return test_type_mapping.get(test_types, test_types)
+
         df['Assessment'] = df.apply(lambda x: f"[{x['name']}]({x['url']})", axis=1)
         df['Remote'] = df['remote'].map({"Yes": "Yes"}).fillna("No")
         df['Adaptive'] = df['adaptive'].map({"Yes": "Yes"}).fillna("No")
         df['Duration (mins)'] = df['duration_minutes']
+        df['Test Type'] = df['test_type'].apply(map_test_types)
+
+        # Display Test Type Key
+        st.markdown("### 🗝️ Test Type Key")
+        test_type_key = {
+            'A': 'Ability & Aptitude',
+            'B': 'Biodata & Situational Judgement',
+            'C': 'Competencies',
+            'D': 'Development & 360',
+            'E': 'Assessment Exercises',
+            'K': 'Knowledge & Skills',
+            'P': 'Personality & Behavior',
+            'S': 'Simulations'
+        }
+        key_str = ", ".join([f"**{k}** = {v}" for k, v in test_type_key.items()])
+        st.markdown(key_str)
+
+        # Show the final recommendations table
         st.markdown("### Recommended Assessments")
-        st.table(df[['Assessment', 'Remote', 'Adaptive', 'Duration (mins)']])
+        st.table(df[['Assessment', 'Test Type', 'Remote', 'Adaptive', 'Duration (mins)']])
 
 # ---------------------------
 # 📊 Evaluation Section
