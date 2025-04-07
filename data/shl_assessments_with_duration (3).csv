@@ -1,0 +1,385 @@
+name,url,remote,adaptive,test_type,duration_minutes
+Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"['Ability & Aptitude', 'Assessment Exercises', 'Biodata & Situational Judgement', 'Competencies', 'Development & 360', 'Personality & Behavior']",N/A
+.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,['Knowledge & Skills'],30
+.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,['Knowledge & Skills'],17
+.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,['Knowledge & Skills'],5
+.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,['Knowledge & Skills'],11
+.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,['Knowledge & Skills'],9
+.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,['Knowledge & Skills'],5
+Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,['Knowledge & Skills'],9
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,['Simulations'],8
+Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,['Knowledge & Skills'],13
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,['Simulations'],8
+ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,['Knowledge & Skills'],10
+Adobe Experience Manager (New),https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/,Yes,No,['Knowledge & Skills'],17
+Adobe Photoshop CC,https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/,Yes,Yes,['Knowledge & Skills'],20
+Aeronautical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Aerospace Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Agile Software Development,https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/,Yes,No,['Knowledge & Skills'],7
+Agile Testing (New),https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/,Yes,No,['Knowledge & Skills'],13
+AI Skills,https://www.shl.com/solutions/products/product-catalog/view/ai-skills/,Yes,No,['Personality & Behavior'],16
+Amazon Web Services (AWS) Development (New),https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/,Yes,No,['Knowledge & Skills'],6
+Android Development (New),https://www.shl.com/solutions/products/product-catalog/view/android-development-new/,Yes,No,['Knowledge & Skills'],7
+Angular 6 (New),https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/,Yes,No,['Knowledge & Skills'],11
+AngularJS (New),https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/,Yes,No,['Knowledge & Skills'],9
+Apache Hadoop (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/,Yes,No,['Knowledge & Skills'],7
+Adobe Experience Manager (New),https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/,Yes,No,['Knowledge & Skills'],17
+Adobe Photoshop CC,https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/,Yes,Yes,['Knowledge & Skills'],20
+Aeronautical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Aerospace Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Agile Software Development,https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/,Yes,No,['Knowledge & Skills'],7
+Agile Testing (New),https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/,Yes,No,['Knowledge & Skills'],13
+AI Skills,https://www.shl.com/solutions/products/product-catalog/view/ai-skills/,Yes,No,['Personality & Behavior'],16
+Amazon Web Services (AWS) Development (New),https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/,Yes,No,['Knowledge & Skills'],6
+Android Development (New),https://www.shl.com/solutions/products/product-catalog/view/android-development-new/,Yes,No,['Knowledge & Skills'],7
+Angular 6 (New),https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/,Yes,No,['Knowledge & Skills'],11
+AngularJS (New),https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/,Yes,No,['Knowledge & Skills'],9
+Apache Hadoop (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/,Yes,No,['Knowledge & Skills'],7
+Adobe Experience Manager (New),https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/,Yes,No,['Knowledge & Skills'],17
+Adobe Photoshop CC,https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/,Yes,Yes,['Knowledge & Skills'],20
+Aeronautical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Aerospace Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Agile Software Development,https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/,Yes,No,['Knowledge & Skills'],7
+Agile Testing (New),https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/,Yes,No,['Knowledge & Skills'],13
+AI Skills,https://www.shl.com/solutions/products/product-catalog/view/ai-skills/,Yes,No,['Personality & Behavior'],16
+Amazon Web Services (AWS) Development (New),https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/,Yes,No,['Knowledge & Skills'],6
+Android Development (New),https://www.shl.com/solutions/products/product-catalog/view/android-development-new/,Yes,No,['Knowledge & Skills'],7
+Angular 6 (New),https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/,Yes,No,['Knowledge & Skills'],11
+AngularJS (New),https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/,Yes,No,['Knowledge & Skills'],9
+Apache Hadoop (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/,Yes,No,['Knowledge & Skills'],7
+Adobe Experience Manager (New),https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/,Yes,No,['Knowledge & Skills'],17
+Adobe Photoshop CC,https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/,Yes,Yes,['Knowledge & Skills'],20
+Aeronautical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Aerospace Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Agile Software Development,https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/,Yes,No,['Knowledge & Skills'],7
+Agile Testing (New),https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/,Yes,No,['Knowledge & Skills'],13
+AI Skills,https://www.shl.com/solutions/products/product-catalog/view/ai-skills/,Yes,No,['Personality & Behavior'],16
+Amazon Web Services (AWS) Development (New),https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/,Yes,No,['Knowledge & Skills'],6
+Android Development (New),https://www.shl.com/solutions/products/product-catalog/view/android-development-new/,Yes,No,['Knowledge & Skills'],7
+Angular 6 (New),https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/,Yes,No,['Knowledge & Skills'],11
+AngularJS (New),https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/,Yes,No,['Knowledge & Skills'],9
+Apache Hadoop (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/,Yes,No,['Knowledge & Skills'],7
+COBOL Programming (New),https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/,Yes,No,['Knowledge & Skills'],10
+Computer Science (New),https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/,Yes,No,['Knowledge & Skills'],12
+Contact Center Call Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/,Yes,No,['Simulations'],15
+Conversational Multichat Simulation,https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/,Yes,No,['Simulations'],11
+Core Java (Advanced Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/,Yes,No,['Knowledge & Skills'],13
+Core Java (Entry Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/,Yes,No,['Knowledge & Skills'],13
+Count Out The Money,https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/,Yes,Yes,"['Knowledge & Skills', 'Simulations']",5
+CSS3 (New),https://www.shl.com/solutions/products/product-catalog/view/css3-new/,Yes,No,['Knowledge & Skills'],8
+Culinary Skills (New),https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/,Yes,No,['Knowledge & Skills'],7
+Customer Service Phone Simulation,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/,Yes,No,"['Biodata & Situational Judgement', 'Simulations']",20
+Customer Service Phone Solution,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/,Yes,No,"['Biodata & Situational Judgement', 'Personality & Behavior', 'Simulations']",30
+Cyber Risk (New),https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/,Yes,No,['Knowledge & Skills'],9
+COBOL Programming (New),https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/,Yes,No,['Knowledge & Skills'],10
+Computer Science (New),https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/,Yes,No,['Knowledge & Skills'],12
+Contact Center Call Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/,Yes,No,['Simulations'],15
+Conversational Multichat Simulation,https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/,Yes,No,['Simulations'],11
+Core Java (Advanced Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/,Yes,No,['Knowledge & Skills'],13
+Core Java (Entry Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/,Yes,No,['Knowledge & Skills'],13
+Count Out The Money,https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/,Yes,Yes,"['Knowledge & Skills', 'Simulations']",5
+CSS3 (New),https://www.shl.com/solutions/products/product-catalog/view/css3-new/,Yes,No,['Knowledge & Skills'],8
+Culinary Skills (New),https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/,Yes,No,['Knowledge & Skills'],7
+Customer Service Phone Simulation,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/,Yes,No,"['Biodata & Situational Judgement', 'Simulations']",20
+Customer Service Phone Solution,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/,Yes,No,"['Biodata & Situational Judgement', 'Personality & Behavior', 'Simulations']",30
+Cyber Risk (New),https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/,Yes,No,['Knowledge & Skills'],9
+COBOL Programming (New),https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/,Yes,No,['Knowledge & Skills'],10
+Computer Science (New),https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/,Yes,No,['Knowledge & Skills'],12
+Contact Center Call Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/,Yes,No,['Simulations'],15
+Conversational Multichat Simulation,https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/,Yes,No,['Simulations'],11
+Core Java (Advanced Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/,Yes,No,['Knowledge & Skills'],13
+Core Java (Entry Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/,Yes,No,['Knowledge & Skills'],13
+Count Out The Money,https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/,Yes,Yes,"['Knowledge & Skills', 'Simulations']",5
+CSS3 (New),https://www.shl.com/solutions/products/product-catalog/view/css3-new/,Yes,No,['Knowledge & Skills'],8
+Culinary Skills (New),https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/,Yes,No,['Knowledge & Skills'],7
+Customer Service Phone Simulation,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/,Yes,No,"['Biodata & Situational Judgement', 'Simulations']",20
+Customer Service Phone Solution,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/,Yes,No,"['Biodata & Situational Judgement', 'Personality & Behavior', 'Simulations']",30
+Cyber Risk (New),https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/,Yes,No,['Knowledge & Skills'],9
+COBOL Programming (New),https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/,Yes,No,['Knowledge & Skills'],10
+Computer Science (New),https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/,Yes,No,['Knowledge & Skills'],12
+Contact Center Call Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/,Yes,No,['Simulations'],15
+Conversational Multichat Simulation,https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/,Yes,No,['Simulations'],11
+Core Java (Advanced Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/,Yes,No,['Knowledge & Skills'],13
+Core Java (Entry Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/,Yes,No,['Knowledge & Skills'],13
+Count Out The Money,https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/,Yes,Yes,"['Knowledge & Skills', 'Simulations']",5
+CSS3 (New),https://www.shl.com/solutions/products/product-catalog/view/css3-new/,Yes,No,['Knowledge & Skills'],8
+Culinary Skills (New),https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/,Yes,No,['Knowledge & Skills'],7
+Customer Service Phone Simulation,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/,Yes,No,"['Biodata & Situational Judgement', 'Simulations']",20
+Customer Service Phone Solution,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/,Yes,No,"['Biodata & Situational Judgement', 'Personality & Behavior', 'Simulations']",30
+Cyber Risk (New),https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/,Yes,No,['Knowledge & Skills'],9
+COBOL Programming (New),https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/,Yes,No,['Knowledge & Skills'],10
+Computer Science (New),https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/,Yes,No,['Knowledge & Skills'],12
+Contact Center Call Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/,Yes,No,['Simulations'],15
+Conversational Multichat Simulation,https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/,Yes,No,['Simulations'],11
+Core Java (Advanced Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/,Yes,No,['Knowledge & Skills'],13
+Core Java (Entry Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/,Yes,No,['Knowledge & Skills'],13
+Count Out The Money,https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/,Yes,Yes,"['Knowledge & Skills', 'Simulations']",5
+CSS3 (New),https://www.shl.com/solutions/products/product-catalog/view/css3-new/,Yes,No,['Knowledge & Skills'],8
+Culinary Skills (New),https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/,Yes,No,['Knowledge & Skills'],7
+Customer Service Phone Simulation,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/,Yes,No,"['Biodata & Situational Judgement', 'Simulations']",20
+Customer Service Phone Solution,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/,Yes,No,"['Biodata & Situational Judgement', 'Personality & Behavior', 'Simulations']",30
+Cyber Risk (New),https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/,Yes,No,['Knowledge & Skills'],9
+COBOL Programming (New),https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/,Yes,No,['Knowledge & Skills'],10
+Computer Science (New),https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/,Yes,No,['Knowledge & Skills'],12
+Contact Center Call Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/,Yes,No,['Simulations'],15
+Conversational Multichat Simulation,https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/,Yes,No,['Simulations'],11
+Core Java (Advanced Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/,Yes,No,['Knowledge & Skills'],13
+Core Java (Entry Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/,Yes,No,['Knowledge & Skills'],13
+Count Out The Money,https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/,Yes,Yes,"['Knowledge & Skills', 'Simulations']",5
+CSS3 (New),https://www.shl.com/solutions/products/product-catalog/view/css3-new/,Yes,No,['Knowledge & Skills'],8
+Culinary Skills (New),https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/,Yes,No,['Knowledge & Skills'],7
+Customer Service Phone Simulation,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/,Yes,No,"['Biodata & Situational Judgement', 'Simulations']",20
+Customer Service Phone Solution,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/,Yes,No,"['Biodata & Situational Judgement', 'Personality & Behavior', 'Simulations']",30
+Cyber Risk (New),https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/,Yes,No,['Knowledge & Skills'],9
+HiPo Assessment Report 1.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+HiPo Assessment Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+HiPo Unlocking Potential Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/,Yes,No,['Competencies'],N/A
+Housekeeping (New),https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/,Yes,No,['Knowledge & Skills'],7
+HTML/CSS (New),https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/,Yes,No,['Knowledge & Skills'],N/A
+HTML5 (New),https://www.shl.com/solutions/products/product-catalog/view/html5-new/,Yes,No,['Knowledge & Skills'],11
+Human Resources (New),https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/,Yes,No,['Knowledge & Skills'],8
+IBM DataStage (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/,Yes,No,['Knowledge & Skills'],15
+IBM Sterling Order Management System (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/,Yes,No,['Knowledge & Skills'],13
+Industrial Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/,Yes,No,['Knowledge & Skills'],9
+Informatica (Architecture) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/,Yes,No,['Knowledge & Skills'],10
+Informatica (Developer) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/,Yes,No,['Knowledge & Skills'],11
+HiPo Assessment Report 1.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+HiPo Assessment Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+HiPo Unlocking Potential Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/,Yes,No,['Competencies'],N/A
+Housekeeping (New),https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/,Yes,No,['Knowledge & Skills'],7
+HTML/CSS (New),https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/,Yes,No,['Knowledge & Skills'],N/A
+HTML5 (New),https://www.shl.com/solutions/products/product-catalog/view/html5-new/,Yes,No,['Knowledge & Skills'],11
+Human Resources (New),https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/,Yes,No,['Knowledge & Skills'],8
+IBM DataStage (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/,Yes,No,['Knowledge & Skills'],15
+IBM Sterling Order Management System (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/,Yes,No,['Knowledge & Skills'],13
+Industrial Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/,Yes,No,['Knowledge & Skills'],9
+Informatica (Architecture) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/,Yes,No,['Knowledge & Skills'],10
+Informatica (Developer) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/,Yes,No,['Knowledge & Skills'],11
+HiPo Assessment Report 1.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+HiPo Assessment Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+HiPo Unlocking Potential Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/,Yes,No,['Competencies'],N/A
+Housekeeping (New),https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/,Yes,No,['Knowledge & Skills'],7
+HTML/CSS (New),https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/,Yes,No,['Knowledge & Skills'],N/A
+HTML5 (New),https://www.shl.com/solutions/products/product-catalog/view/html5-new/,Yes,No,['Knowledge & Skills'],11
+Human Resources (New),https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/,Yes,No,['Knowledge & Skills'],8
+IBM DataStage (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/,Yes,No,['Knowledge & Skills'],15
+IBM Sterling Order Management System (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/,Yes,No,['Knowledge & Skills'],13
+Industrial Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/,Yes,No,['Knowledge & Skills'],9
+Informatica (Architecture) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/,Yes,No,['Knowledge & Skills'],10
+Informatica (Developer) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/,Yes,No,['Knowledge & Skills'],11
+HiPo Assessment Report 1.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+HiPo Assessment Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+HiPo Unlocking Potential Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/,Yes,No,['Competencies'],N/A
+Housekeeping (New),https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/,Yes,No,['Knowledge & Skills'],7
+HTML/CSS (New),https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/,Yes,No,['Knowledge & Skills'],N/A
+HTML5 (New),https://www.shl.com/solutions/products/product-catalog/view/html5-new/,Yes,No,['Knowledge & Skills'],11
+Human Resources (New),https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/,Yes,No,['Knowledge & Skills'],8
+IBM DataStage (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/,Yes,No,['Knowledge & Skills'],15
+IBM Sterling Order Management System (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/,Yes,No,['Knowledge & Skills'],13
+Industrial Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/,Yes,No,['Knowledge & Skills'],9
+Informatica (Architecture) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/,Yes,No,['Knowledge & Skills'],10
+Informatica (Developer) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/,Yes,No,['Knowledge & Skills'],11
+HiPo Assessment Report 1.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+HiPo Assessment Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+HiPo Unlocking Potential Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/,Yes,No,['Competencies'],N/A
+Housekeeping (New),https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/,Yes,No,['Knowledge & Skills'],7
+HTML/CSS (New),https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/,Yes,No,['Knowledge & Skills'],N/A
+HTML5 (New),https://www.shl.com/solutions/products/product-catalog/view/html5-new/,Yes,No,['Knowledge & Skills'],11
+Human Resources (New),https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/,Yes,No,['Knowledge & Skills'],8
+IBM DataStage (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/,Yes,No,['Knowledge & Skills'],15
+IBM Sterling Order Management System (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/,Yes,No,['Knowledge & Skills'],13
+Industrial Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/,Yes,No,['Knowledge & Skills'],9
+Informatica (Architecture) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/,Yes,No,['Knowledge & Skills'],10
+Informatica (Developer) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/,Yes,No,['Knowledge & Skills'],11
+Microsoft Windows Server 2012 Administration,https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/,Yes,Yes,['Knowledge & Skills'],35
+Microsoft Word 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/,Yes,No,"['Knowledge & Skills', 'Simulations']",25
+Microsoft Word 365 (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/,Yes,No,"['Simulations', 'Knowledge & Skills']",35
+Mineral Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mineral-engineering-new/,Yes,No,['Knowledge & Skills'],12
+Mining Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mining-engineering-new/,Yes,No,['Knowledge & Skills'],16
+Mobility (New),https://www.shl.com/solutions/products/product-catalog/view/mobility-new/,Yes,No,['Knowledge & Skills'],9
+Molecular Biology (New),https://www.shl.com/solutions/products/product-catalog/view/molecular-biology-new/,Yes,No,['Knowledge & Skills'],6
+MongoDB (New),https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/,Yes,No,['Knowledge & Skills'],7
+Motivation Questionnaire MQM5,https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/,Yes,No,['Personality & Behavior'],25
+MQ Candidate Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-candidate-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Employee Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-employee-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Motivation Report Pack,https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-report-pack/,Yes,No,['Personality & Behavior'],N/A
+Microsoft Windows Server 2012 Administration,https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/,Yes,Yes,['Knowledge & Skills'],35
+Microsoft Word 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/,Yes,No,"['Knowledge & Skills', 'Simulations']",25
+Microsoft Word 365 (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/,Yes,No,"['Simulations', 'Knowledge & Skills']",35
+Mineral Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mineral-engineering-new/,Yes,No,['Knowledge & Skills'],12
+Mining Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mining-engineering-new/,Yes,No,['Knowledge & Skills'],16
+Mobility (New),https://www.shl.com/solutions/products/product-catalog/view/mobility-new/,Yes,No,['Knowledge & Skills'],9
+Molecular Biology (New),https://www.shl.com/solutions/products/product-catalog/view/molecular-biology-new/,Yes,No,['Knowledge & Skills'],6
+MongoDB (New),https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/,Yes,No,['Knowledge & Skills'],7
+Motivation Questionnaire MQM5,https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/,Yes,No,['Personality & Behavior'],25
+MQ Candidate Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-candidate-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Employee Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-employee-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Motivation Report Pack,https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-report-pack/,Yes,No,['Personality & Behavior'],N/A
+Microsoft Windows Server 2012 Administration,https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/,Yes,Yes,['Knowledge & Skills'],35
+Microsoft Word 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/,Yes,No,"['Knowledge & Skills', 'Simulations']",25
+Microsoft Word 365 (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/,Yes,No,"['Simulations', 'Knowledge & Skills']",35
+Mineral Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mineral-engineering-new/,Yes,No,['Knowledge & Skills'],12
+Mining Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mining-engineering-new/,Yes,No,['Knowledge & Skills'],16
+Mobility (New),https://www.shl.com/solutions/products/product-catalog/view/mobility-new/,Yes,No,['Knowledge & Skills'],9
+Molecular Biology (New),https://www.shl.com/solutions/products/product-catalog/view/molecular-biology-new/,Yes,No,['Knowledge & Skills'],6
+MongoDB (New),https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/,Yes,No,['Knowledge & Skills'],7
+Motivation Questionnaire MQM5,https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/,Yes,No,['Personality & Behavior'],25
+MQ Candidate Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-candidate-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Employee Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-employee-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Motivation Report Pack,https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-report-pack/,Yes,No,['Personality & Behavior'],N/A
+Microsoft Windows Server 2012 Administration,https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/,Yes,Yes,['Knowledge & Skills'],35
+Microsoft Word 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/,Yes,No,"['Knowledge & Skills', 'Simulations']",25
+Microsoft Word 365 (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/,Yes,No,"['Simulations', 'Knowledge & Skills']",35
+Mineral Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mineral-engineering-new/,Yes,No,['Knowledge & Skills'],12
+Mining Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mining-engineering-new/,Yes,No,['Knowledge & Skills'],16
+Mobility (New),https://www.shl.com/solutions/products/product-catalog/view/mobility-new/,Yes,No,['Knowledge & Skills'],9
+Molecular Biology (New),https://www.shl.com/solutions/products/product-catalog/view/molecular-biology-new/,Yes,No,['Knowledge & Skills'],6
+MongoDB (New),https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/,Yes,No,['Knowledge & Skills'],7
+Motivation Questionnaire MQM5,https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/,Yes,No,['Personality & Behavior'],25
+MQ Candidate Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-candidate-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Employee Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-employee-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Motivation Report Pack,https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-report-pack/,Yes,No,['Personality & Behavior'],N/A
+Microsoft Windows Server 2012 Administration,https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/,Yes,Yes,['Knowledge & Skills'],35
+Microsoft Word 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/,Yes,No,"['Knowledge & Skills', 'Simulations']",25
+Microsoft Word 365 (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/,Yes,No,"['Simulations', 'Knowledge & Skills']",35
+Mineral Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mineral-engineering-new/,Yes,No,['Knowledge & Skills'],12
+Mining Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mining-engineering-new/,Yes,No,['Knowledge & Skills'],16
+Mobility (New),https://www.shl.com/solutions/products/product-catalog/view/mobility-new/,Yes,No,['Knowledge & Skills'],9
+Molecular Biology (New),https://www.shl.com/solutions/products/product-catalog/view/molecular-biology-new/,Yes,No,['Knowledge & Skills'],6
+MongoDB (New),https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/,Yes,No,['Knowledge & Skills'],7
+Motivation Questionnaire MQM5,https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/,Yes,No,['Personality & Behavior'],25
+MQ Candidate Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-candidate-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Employee Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-employee-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Motivation Report Pack,https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-report-pack/,Yes,No,['Personality & Behavior'],N/A
+Microsoft Windows Server 2012 Administration,https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/,Yes,Yes,['Knowledge & Skills'],35
+Microsoft Word 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/,Yes,No,"['Knowledge & Skills', 'Simulations']",25
+Microsoft Word 365 (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/,Yes,No,"['Simulations', 'Knowledge & Skills']",35
+Mineral Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mineral-engineering-new/,Yes,No,['Knowledge & Skills'],12
+Mining Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mining-engineering-new/,Yes,No,['Knowledge & Skills'],16
+Mobility (New),https://www.shl.com/solutions/products/product-catalog/view/mobility-new/,Yes,No,['Knowledge & Skills'],9
+Molecular Biology (New),https://www.shl.com/solutions/products/product-catalog/view/molecular-biology-new/,Yes,No,['Knowledge & Skills'],6
+MongoDB (New),https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/,Yes,No,['Knowledge & Skills'],7
+Motivation Questionnaire MQM5,https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/,Yes,No,['Personality & Behavior'],25
+MQ Candidate Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-candidate-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Employee Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-employee-motivation-report/,Yes,No,['Personality & Behavior'],N/A
+MQ Motivation Report Pack,https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-report-pack/,Yes,No,['Personality & Behavior'],N/A
+Production Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/production-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Programming Concepts,https://www.shl.com/solutions/products/product-catalog/view/programming-concepts/,Yes,Yes,['Knowledge & Skills'],25
+Project Management (2013),https://www.shl.com/solutions/products/product-catalog/view/project-management-2013/,Yes,Yes,['Knowledge & Skills'],30
+Proofreading v1,https://www.shl.com/solutions/products/product-catalog/view/proofreading-v1/,Yes,No,['Knowledge & Skills'],6
+Python (New),https://www.shl.com/solutions/products/product-catalog/view/python-new/,Yes,No,['Knowledge & Skills'],11
+R Programming (New),https://www.shl.com/solutions/products/product-catalog/view/r-programming-new/,Yes,No,['Knowledge & Skills'],13
+ReactJS (New),https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/,Yes,No,['Knowledge & Skills'],10
+Reading Comprehension - English v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-english-v1/,Yes,Yes,['Ability & Aptitude'],35
+Reading Comprehension - Spanish v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-spanish-v1/,Yes,Yes,['Ability & Aptitude'],26
+Reading Comprehension v2,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-v2/,Yes,Yes,['Ability & Aptitude'],35
+RemoteWorkQ,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/,Yes,No,['Competencies'],10
+RemoteWorkQ Manager Report,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-manager-report/,Yes,No,['Competencies'],N/A
+Production Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/production-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Programming Concepts,https://www.shl.com/solutions/products/product-catalog/view/programming-concepts/,Yes,Yes,['Knowledge & Skills'],25
+Project Management (2013),https://www.shl.com/solutions/products/product-catalog/view/project-management-2013/,Yes,Yes,['Knowledge & Skills'],30
+Proofreading v1,https://www.shl.com/solutions/products/product-catalog/view/proofreading-v1/,Yes,No,['Knowledge & Skills'],6
+Python (New),https://www.shl.com/solutions/products/product-catalog/view/python-new/,Yes,No,['Knowledge & Skills'],11
+R Programming (New),https://www.shl.com/solutions/products/product-catalog/view/r-programming-new/,Yes,No,['Knowledge & Skills'],13
+ReactJS (New),https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/,Yes,No,['Knowledge & Skills'],10
+Reading Comprehension - English v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-english-v1/,Yes,Yes,['Ability & Aptitude'],35
+Reading Comprehension - Spanish v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-spanish-v1/,Yes,Yes,['Ability & Aptitude'],26
+Reading Comprehension v2,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-v2/,Yes,Yes,['Ability & Aptitude'],35
+RemoteWorkQ,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/,Yes,No,['Competencies'],10
+RemoteWorkQ Manager Report,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-manager-report/,Yes,No,['Competencies'],N/A
+Production Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/production-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Programming Concepts,https://www.shl.com/solutions/products/product-catalog/view/programming-concepts/,Yes,Yes,['Knowledge & Skills'],25
+Project Management (2013),https://www.shl.com/solutions/products/product-catalog/view/project-management-2013/,Yes,Yes,['Knowledge & Skills'],30
+Proofreading v1,https://www.shl.com/solutions/products/product-catalog/view/proofreading-v1/,Yes,No,['Knowledge & Skills'],6
+Python (New),https://www.shl.com/solutions/products/product-catalog/view/python-new/,Yes,No,['Knowledge & Skills'],11
+R Programming (New),https://www.shl.com/solutions/products/product-catalog/view/r-programming-new/,Yes,No,['Knowledge & Skills'],13
+ReactJS (New),https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/,Yes,No,['Knowledge & Skills'],10
+Reading Comprehension - English v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-english-v1/,Yes,Yes,['Ability & Aptitude'],35
+Reading Comprehension - Spanish v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-spanish-v1/,Yes,Yes,['Ability & Aptitude'],26
+Reading Comprehension v2,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-v2/,Yes,Yes,['Ability & Aptitude'],35
+RemoteWorkQ,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/,Yes,No,['Competencies'],10
+RemoteWorkQ Manager Report,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-manager-report/,Yes,No,['Competencies'],N/A
+Production Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/production-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Programming Concepts,https://www.shl.com/solutions/products/product-catalog/view/programming-concepts/,Yes,Yes,['Knowledge & Skills'],25
+Project Management (2013),https://www.shl.com/solutions/products/product-catalog/view/project-management-2013/,Yes,Yes,['Knowledge & Skills'],30
+Proofreading v1,https://www.shl.com/solutions/products/product-catalog/view/proofreading-v1/,Yes,No,['Knowledge & Skills'],6
+Python (New),https://www.shl.com/solutions/products/product-catalog/view/python-new/,Yes,No,['Knowledge & Skills'],11
+R Programming (New),https://www.shl.com/solutions/products/product-catalog/view/r-programming-new/,Yes,No,['Knowledge & Skills'],13
+ReactJS (New),https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/,Yes,No,['Knowledge & Skills'],10
+Reading Comprehension - English v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-english-v1/,Yes,Yes,['Ability & Aptitude'],35
+Reading Comprehension - Spanish v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-spanish-v1/,Yes,Yes,['Ability & Aptitude'],26
+Reading Comprehension v2,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-v2/,Yes,Yes,['Ability & Aptitude'],35
+RemoteWorkQ,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/,Yes,No,['Competencies'],10
+RemoteWorkQ Manager Report,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-manager-report/,Yes,No,['Competencies'],N/A
+Production Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/production-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Programming Concepts,https://www.shl.com/solutions/products/product-catalog/view/programming-concepts/,Yes,Yes,['Knowledge & Skills'],25
+Project Management (2013),https://www.shl.com/solutions/products/product-catalog/view/project-management-2013/,Yes,Yes,['Knowledge & Skills'],30
+Proofreading v1,https://www.shl.com/solutions/products/product-catalog/view/proofreading-v1/,Yes,No,['Knowledge & Skills'],6
+Python (New),https://www.shl.com/solutions/products/product-catalog/view/python-new/,Yes,No,['Knowledge & Skills'],11
+R Programming (New),https://www.shl.com/solutions/products/product-catalog/view/r-programming-new/,Yes,No,['Knowledge & Skills'],13
+ReactJS (New),https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/,Yes,No,['Knowledge & Skills'],10
+Reading Comprehension - English v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-english-v1/,Yes,Yes,['Ability & Aptitude'],35
+Reading Comprehension - Spanish v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-spanish-v1/,Yes,Yes,['Ability & Aptitude'],26
+Reading Comprehension v2,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-v2/,Yes,Yes,['Ability & Aptitude'],35
+RemoteWorkQ,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/,Yes,No,['Competencies'],10
+RemoteWorkQ Manager Report,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-manager-report/,Yes,No,['Competencies'],N/A
+Production Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/production-engineering-new/,Yes,No,['Knowledge & Skills'],10
+Programming Concepts,https://www.shl.com/solutions/products/product-catalog/view/programming-concepts/,Yes,Yes,['Knowledge & Skills'],25
+Project Management (2013),https://www.shl.com/solutions/products/product-catalog/view/project-management-2013/,Yes,Yes,['Knowledge & Skills'],30
+Proofreading v1,https://www.shl.com/solutions/products/product-catalog/view/proofreading-v1/,Yes,No,['Knowledge & Skills'],6
+Python (New),https://www.shl.com/solutions/products/product-catalog/view/python-new/,Yes,No,['Knowledge & Skills'],11
+R Programming (New),https://www.shl.com/solutions/products/product-catalog/view/r-programming-new/,Yes,No,['Knowledge & Skills'],13
+ReactJS (New),https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/,Yes,No,['Knowledge & Skills'],10
+Reading Comprehension - English v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-english-v1/,Yes,Yes,['Ability & Aptitude'],35
+Reading Comprehension - Spanish v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-spanish-v1/,Yes,Yes,['Ability & Aptitude'],26
+Reading Comprehension v2,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-v2/,Yes,Yes,['Ability & Aptitude'],35
+RemoteWorkQ,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/,Yes,No,['Competencies'],10
+RemoteWorkQ Manager Report,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-manager-report/,Yes,No,['Competencies'],N/A
+Teradata Development (New),https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/,Yes,No,['Knowledge & Skills'],9
+Time Management (U.S.),https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/,Yes,Yes,['Knowledge & Skills'],15
+Training Development,https://www.shl.com/solutions/products/product-catalog/view/training-development/,Yes,Yes,['Knowledge & Skills'],15
+Typing (New),https://www.shl.com/solutions/products/product-catalog/view/typing-new/,Yes,No,['Simulations'],2
+UiPath RPA Development (New),https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/,Yes,No,['Knowledge & Skills'],8
+Universal Competency Framework Interview Guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+Universal Competency Framework Job profiling guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+Universal Competency Framework Profiler Cards (44),https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+UNIX (New),https://www.shl.com/solutions/products/product-catalog/view/unix-new/,Yes,No,['Knowledge & Skills'],9
+VB.NET (New),https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/,Yes,No,['Knowledge & Skills'],10
+Verify - Deductive Reasoning,https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/,Yes,Yes,['Ability & Aptitude'],20
+Verify - Following Instructions,https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/,Yes,No,['Ability & Aptitude'],8
+Teradata Development (New),https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/,Yes,No,['Knowledge & Skills'],9
+Time Management (U.S.),https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/,Yes,Yes,['Knowledge & Skills'],15
+Training Development,https://www.shl.com/solutions/products/product-catalog/view/training-development/,Yes,Yes,['Knowledge & Skills'],15
+Typing (New),https://www.shl.com/solutions/products/product-catalog/view/typing-new/,Yes,No,['Simulations'],2
+UiPath RPA Development (New),https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/,Yes,No,['Knowledge & Skills'],8
+Universal Competency Framework Interview Guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+Universal Competency Framework Job profiling guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+Universal Competency Framework Profiler Cards (44),https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+UNIX (New),https://www.shl.com/solutions/products/product-catalog/view/unix-new/,Yes,No,['Knowledge & Skills'],9
+VB.NET (New),https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/,Yes,No,['Knowledge & Skills'],10
+Verify - Deductive Reasoning,https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/,Yes,Yes,['Ability & Aptitude'],20
+Verify - Following Instructions,https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/,Yes,No,['Ability & Aptitude'],8
+Teradata Development (New),https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/,Yes,No,['Knowledge & Skills'],9
+Time Management (U.S.),https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/,Yes,Yes,['Knowledge & Skills'],15
+Training Development,https://www.shl.com/solutions/products/product-catalog/view/training-development/,Yes,Yes,['Knowledge & Skills'],15
+Typing (New),https://www.shl.com/solutions/products/product-catalog/view/typing-new/,Yes,No,['Simulations'],2
+UiPath RPA Development (New),https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/,Yes,No,['Knowledge & Skills'],8
+Universal Competency Framework Interview Guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+Universal Competency Framework Job profiling guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+Universal Competency Framework Profiler Cards (44),https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+UNIX (New),https://www.shl.com/solutions/products/product-catalog/view/unix-new/,Yes,No,['Knowledge & Skills'],9
+VB.NET (New),https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/,Yes,No,['Knowledge & Skills'],10
+Verify - Deductive Reasoning,https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/,Yes,Yes,['Ability & Aptitude'],20
+Verify - Following Instructions,https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/,Yes,No,['Ability & Aptitude'],8
+Teradata Development (New),https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/,Yes,No,['Knowledge & Skills'],9
+Time Management (U.S.),https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/,Yes,Yes,['Knowledge & Skills'],15
+Training Development,https://www.shl.com/solutions/products/product-catalog/view/training-development/,Yes,Yes,['Knowledge & Skills'],15
+Typing (New),https://www.shl.com/solutions/products/product-catalog/view/typing-new/,Yes,No,['Simulations'],2
+UiPath RPA Development (New),https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/,Yes,No,['Knowledge & Skills'],8
+Universal Competency Framework Interview Guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+Universal Competency Framework Job profiling guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+Universal Competency Framework Profiler Cards (44),https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/,Yes,No,"['Competencies', 'Personality & Behavior']",N/A
+UNIX (New),https://www.shl.com/solutions/products/product-catalog/view/unix-new/,Yes,No,['Knowledge & Skills'],9
+VB.NET (New),https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/,Yes,No,['Knowledge & Skills'],10
+Verify - Deductive Reasoning,https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/,Yes,Yes,['Ability & Aptitude'],20
+Verify - Following Instructions,https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/,Yes,No,['Ability & Aptitude'],8
