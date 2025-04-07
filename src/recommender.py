@@ -85,7 +85,7 @@ class SHLRecommender:
 
     def format_recommendations(self, recommendations):
         return recommendations[[
-            'name', 'url', 'remote', 'adaptive', 'duration_minutes'
+            'name', 'url', 'remote', 'adaptive', 'duration_minutes' , 'test_type'
         ]].replace([np.inf, -np.inf], np.nan).fillna("").to_dict('records')
 
 
