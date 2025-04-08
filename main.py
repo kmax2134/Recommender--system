@@ -1,14 +1,27 @@
 # main.py
 from fastapi import FastAPI
-from src.recommender import get_top_k_recommendations
+from pydantic import BaseModel
+from typing import Optional
+from src.recommender import SHLRecommender
 
 app = FastAPI()
+recommender = SHLRecommender()
+
+class RecommendationRequest(BaseModel):
+    query: str
+    max_results: Optional[int] = 10
+    max_duration: Optional[int] = None
 
 @app.get("/")
 def read_root():
     return {"message": "SHL Assessment Recommender is running!"}
 
 @app.post("/recommend")
-def recommend(query: str):
-    results = get_top_k_recommendations(query)
-    return {"recommendations": results}
+def recommend(request: RecommendationRequest):
+    results = recommender.recommend(
+        request.query,
+        max_results=request.max_results,
+        duration_filter=request.max_duration
+    )
+    formatted = recommender.format_recommendations(results)
+    return {"recommendations": formatted}
