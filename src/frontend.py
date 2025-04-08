@@ -8,12 +8,14 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 import streamlit as st
 import requests
 import pandas as pd
-from src.evaluation import evaluate_model, ground_truth
+from src.evaluation import evaluate_model, ground_truth  # Ensure ground_truth is defined in evaluation.py
 
 st.set_page_config(page_title="SHL Assessment Recommender", layout="wide")
 st.title("SHL Assessment Recommendation System")
 
+# ---------------------------
 # Initialize session state
+# ---------------------------
 if "recommendations" not in st.session_state:
     st.session_state.recommendations = None
 if "eval_results" not in st.session_state:
@@ -42,11 +44,15 @@ if submitted:
         "max_duration": duration_filter if duration_filter > 0 else None,
         "job_levels": selected_levels if selected_levels else None
     }
-    response = requests.post("http://localhost:8000/recommend", json=payload)
-    if response.status_code == 200:
-        st.session_state.recommendations = response.json()["recommendations"]
-    else:
-        st.error("Error getting recommendations. Please try again.")
+    try:
+        response = requests.post("http://localhost:8000/recommend", json=payload)
+        if response.status_code == 200:
+            st.session_state.recommendations = response.json()["recommendations"]
+        else:
+            st.error("Error getting recommendations. Please try again.")
+            st.session_state.recommendations = []
+    except Exception as e:
+        st.error(f"Request error: {e}")
         st.session_state.recommendations = []
 
 # ---------------------------
@@ -59,7 +65,7 @@ if st.session_state.recommendations is not None:
     else:
         df = pd.DataFrame(recommendations)
 
-        # Mapping full names to symbols
+        # Mapping full names to symbols for test types
         test_type_mapping = {
             'Ability & Aptitude': 'A',
             'Biodata & Situational Judgement': 'B',
@@ -71,7 +77,6 @@ if st.session_state.recommendations is not None:
             'Simulations': 'S'
         }
 
-        # Convert test type to symbols
         def map_test_types(test_types):
             if isinstance(test_types, list):
                 return ", ".join([test_type_mapping.get(t, t) for t in test_types])
@@ -83,7 +88,6 @@ if st.session_state.recommendations is not None:
         df['Duration (mins)'] = df['duration_minutes']
         df['Test Type'] = df['test_type'].apply(map_test_types)
 
-        # Display Test Type Key
         st.markdown("### 🗝️ Test Type Key")
         test_type_key = {
             'A': 'Ability & Aptitude',
@@ -98,7 +102,6 @@ if st.session_state.recommendations is not None:
         key_str = ", ".join([f"**{k}** = {v}" for k, v in test_type_key.items()])
         st.markdown(key_str)
 
-        # Show the final recommendations table
         st.markdown("### Recommended Assessments")
         st.table(df[['Assessment', 'Test Type', 'Remote', 'Adaptive', 'Duration (mins)']])
 

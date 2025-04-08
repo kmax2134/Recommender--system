@@ -1,11 +1,17 @@
 import numpy as np
-from sentence_transformers import SentenceTransformer, util
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
 from src.recommender import get_top_k_recommendations
 
-# Load SentenceTransformer model
-model = SentenceTransformer("all-MiniLM-L6-v2")
+# Load OpenAI key
+load_dotenv()
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# Ground truth dictionary
+
+# -----------------------------------------
+# 🔍 Ground Truth Dataset for Evaluation
+# -----------------------------------------
 ground_truth = {
     "I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes.":
         ["Java Developer Test", "Java (Coding)", "Back-End Developer Assessment"],
@@ -17,14 +23,29 @@ ground_truth = {
         ["Cognitive Ability Test", "Personality Profile", "Behavioral Test"]
 }
 
-def compute_similarity_score(text1, text2):
-    """Compute cosine similarity between two text strings using SentenceTransformer."""
-    emb1 = model.encode(text1, convert_to_tensor=True)
-    emb2 = model.encode(text2, convert_to_tensor=True)
-    return float(util.pytorch_cos_sim(emb1, emb2)[0][0])
 
+# -----------------------------------------
+# 🔎 Embedding + Semantic Similarity
+# -----------------------------------------
+def get_embedding(text: str, model: str = "text-embedding-ada-002"):
+    response = client.embeddings.create(input=[text], model=model)
+    return response.data[0].embedding
+
+def cosine_similarity(vec1, vec2):
+    vec1 = np.array(vec1)
+    vec2 = np.array(vec2)
+    return np.dot(vec1, vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2) + 1e-9)
+
+def compute_similarity_score(text1, text2):
+    emb1 = get_embedding(text1)
+    emb2 = get_embedding(text2)
+    return cosine_similarity(emb1, emb2)
+
+
+# -----------------------------------------
+# 🎯 Evaluation Metrics
+# -----------------------------------------
 def semantic_recall_at_k(actual, predicted, k, threshold=0.6):
-    """Recall@K using semantic similarity."""
     hits = 0
     for a in actual:
         for p in predicted[:k]:
@@ -34,7 +55,6 @@ def semantic_recall_at_k(actual, predicted, k, threshold=0.6):
     return hits / len(actual) if actual else 0
 
 def semantic_map_at_k(actual, predicted, k, threshold=0.6):
-    """MAP@K using semantic similarity."""
     score = 0.0
     hits = 0
     for i, p in enumerate(predicted[:k]):
@@ -45,8 +65,11 @@ def semantic_map_at_k(actual, predicted, k, threshold=0.6):
                 break
     return score / min(len(actual), k) if actual else 0
 
+
+# -----------------------------------------
+# 📊 Evaluation Runner
+# -----------------------------------------
 def evaluate_model(ground_truth_dict, k=3, similarity_threshold=0.6):
-    """Evaluate model using semantic similarity for Recall@K and MAP@K."""
     recalls = []
     maps = []
     for query, actual_labels in ground_truth_dict.items():
@@ -61,7 +84,11 @@ def evaluate_model(ground_truth_dict, k=3, similarity_threshold=0.6):
         f"MAP@{k}": round(np.mean(maps), 4)
     }
 
-# Optional direct run for debugging
+
+# -----------------------------------------
+# 🔧 Manual Run for Debug/Test
+# -----------------------------------------
 if __name__ == "__main__":
     results = evaluate_model(ground_truth, k=3, similarity_threshold=0.6)
-    print("Evaluation Results:", results)
+    print("\n📈 Evaluation Results:")
+    print(results)

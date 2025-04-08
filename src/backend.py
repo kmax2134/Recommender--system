@@ -2,7 +2,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional
-from .recommender import SHLRecommender
+from .recommender import SHLRecommender  # Note the dot for a relative import
 import uvicorn
 
 app = FastAPI()

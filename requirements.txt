@@ -14,3 +14,4 @@ langchain
 langchain-community
 google-generativeai
 python-dotenv
+openai
