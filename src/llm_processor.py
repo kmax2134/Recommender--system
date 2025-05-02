@@ -7,7 +7,7 @@ from openai import OpenAI
 load_dotenv()
 client = OpenAI()
 
-def extract_json(text):
+def extract_json(text: str):
     try:
         match = re.search(r"\{.*\}", text, re.DOTALL)
         if match:
@@ -16,7 +16,7 @@ def extract_json(text):
         print("❌ JSON decode error:", e)
     return None
 
-def preprocess_query(user_input):
+def preprocess_query(user_input: str) -> dict:
     prompt = f"""
 You are an AI assistant for SHL assessment matching.
 From the user input below, extract:
@@ -38,35 +38,43 @@ Respond ONLY in JSON format exactly as follows:
 }}
 User input: {user_input}
 """
+    structured = None
 
     try:
-        response = client.chat.completions.create(
+        resp = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": "You are an assistant that extracts structured information from job descriptions."},
+                {"role": "system", "content": "You extract structured info from job-desc."},
                 {"role": "user", "content": prompt}
             ],
             temperature=0.0,
         )
-        content = response.choices[0].message.content.strip()
-        print("🧠 Model Output:", content)
+        content = resp.choices[0].message.content.strip()
         structured = extract_json(content)
-        if structured:
-            return structured
     except Exception as e:
         print(f"❌ OpenAI Error: {e}")
 
-    # Fallback
-    return {
-        "query": user_input,
-        "duration_minutes": None,
-        "remote": "Unknown",
-        "adaptive": "Unknown",
-        "test_type": None,
-        "job_level": None
-    }
+    # Fallback to barebones
+    if not structured:
+        structured = {
+            "query": user_input,
+            "duration_minutes": None,
+            "remote": "Unknown",
+            "adaptive": "Unknown",
+            "test_type": None,
+            "job_level": None
+        }
+
+    # —— NEW: simple regex skill extractor
+    skills = re.findall(
+        r"\b(Python|Java|SQL|JavaScript|C\+\+|C#|Go|Ruby)\b",
+        user_input,
+        flags=re.IGNORECASE
+    )
+    structured["skills"] = [s.lower() for s in skills] if skills else []
+
+    return structured
 
 if __name__ == "__main__":
-    test_input = "Need a short adaptive test for entry-level remote software engineers."
-    result = preprocess_query(test_input)
-    print("✅ Final JSON Output:\n", result)
+    sample = "looking for python"
+    print("→", preprocess_query(sample))

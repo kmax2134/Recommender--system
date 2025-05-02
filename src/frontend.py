@@ -1,3 +1,4 @@
+# src/frontend.py
 import os
 os.environ["STREAMLIT_WATCH_USE_POLLING"] = "true"
 
@@ -45,7 +46,7 @@ if submitted:
         "job_levels": selected_levels if selected_levels else None
     }
     try:
-        response = requests.post("https://recommender-system-1ckr.onrender.com/recommend", json=payload)
+        response = requests.post("http://localhost:8000/recommend", json=payload)
         if response.status_code == 200:
             st.session_state.recommendations = response.json()["recommendations"]
         else:
@@ -120,3 +121,10 @@ with st.expander("📊 Evaluate System on Sample Queries"):
         st.success("Evaluation completed successfully!")
         st.metric(f"Mean Recall@{k}", st.session_state.eval_results.get(f"Mean Recall@{k}", 0.0))
         st.metric(f"MAP@{k}", st.session_state.eval_results.get(f"MAP@{k}", 0.0))
+
+
+
+
+
+
+
