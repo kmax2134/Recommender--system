@@ -1,10 +1,10 @@
-# 🧠 SHL Assessment Recommender System
+# SHL Assessment Recommender System
 
 A smart, semantic search-based recommender system that suggests SHL-style assessments by scraping, embedding, and evaluating job-level tests using NLP and vector similarity.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 - Scrapes assessment data (title, description, type, duration, etc.)
 - Uses **Selenium** and **BeautifulSoup** for dynamic and static scraping
@@ -14,16 +14,16 @@ A smart, semantic search-based recommender system that suggests SHL-style assess
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🕸️ Automated test scraping from SHL catalog
-- 🔍 Query matching using semantic embeddings
-- 📊 Recall@K and MAP@K evaluation with cosine similarity
-- 💡 Streamlit UI + FastAPI backend for real-time recommendations
+-  Automated test scraping from SHL catalog
+-  Query matching using semantic embeddings
+-  Recall@K and MAP@K evaluation with cosine similarity
+-  Streamlit UI + FastAPI backend for real-time recommendations
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool/Library          | Purpose                                   |
 |-----------------------|-------------------------------------------|
@@ -38,7 +38,7 @@ A smart, semantic search-based recommender system that suggests SHL-style assess
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ```bash
 git clone https://github.com/your-username/shl-recommender.git
