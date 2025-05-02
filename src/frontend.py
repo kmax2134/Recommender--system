@@ -46,7 +46,7 @@ if submitted:
         "job_levels": selected_levels if selected_levels else None
     }
     try:
-        response = requests.post("https://recommender-system-5859.onrender.com/recommend", json=payload)
+        response = requests.post("http://localhost:8000/recommend", json=payload)
         if response.status_code == 200:
             st.session_state.recommendations = response.json()["recommendations"]
         else:
